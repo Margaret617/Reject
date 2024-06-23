@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+body{
+    height: 100%;
+    font-family: "Nova Mono", monospace;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    background-color: antiquewhite;
+
+}
+h1{
+    color:purple;
+    text-decoration-line: underline;
+    margin-bottom: 20px;
+}
+i{
+    color: black;
+}
+.center-image{
+    border-radius: 5px;
+}
+h2{
+    text-decoration: underline;
+    color: palevioletred;
+}
+
+
+
+
+    
